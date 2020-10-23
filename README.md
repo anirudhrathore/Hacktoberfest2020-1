@@ -30,3 +30,6 @@ How to contribute?.
 People who finished Hacktoberfest'20 using this repository.
 
 Add your name here, and learn how to edit README.md.
+
+Name : Gaurav chauhan
+Bio :  Student , Developer
